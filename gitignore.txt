@@ -1,0 +1,15 @@
+# Visual Studio cache files
+.vs/
+*.suo
+*.user
+*.cache
+*.pdb
+*.ilk
+
+# Build files
+bin/
+obj/
+
+# IDE specific files
+*.VC.db
+*.VC.opendb
